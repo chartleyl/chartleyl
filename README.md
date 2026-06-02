@@ -4,12 +4,6 @@
   Data Scientist & Développeuse Web · Maroc
 </p>
 
-<p align="center">
-  <a href="https://brenda-solutions.netlify.app/">Mon portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/brenda-ndjoumba-ikouele/">LinkedIn</a>
-</p>
-
 ---
 
 ### Ce que je fais
@@ -36,9 +30,3 @@
 - Portfolio : [brenda-solutions.netlify.app](https://brenda-solutions.netlify.app/)
 - LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/brenda-ndjoumba-ikouele/)
 - Disponible pour vos projets web & data — premier échange gratuit, sans engagement
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chartleyl&show_icons=true&hide_border=true&count_private=true&title_color=10b981&icon_color=10b981" alt="Statistiques GitHub" />
-</p>
