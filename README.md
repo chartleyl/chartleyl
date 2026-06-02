@@ -1,7 +1,8 @@
 <h1 align="center">👋 Salut, moi c'est Brenda</h1>
 
 <p align="center">
-  <b>Data Scientist & Développeuse Web</b> &nbsp;·&nbsp; 🌍 Maroc
+  <b>Brenda NDJOUMBA-IKOUELE</b><br/>
+  Data Scientist & Développeuse Web &nbsp;·&nbsp; 🌍 Maroc
 </p>
 
 <p align="center">
@@ -11,7 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://brenda-solutions.netlify.app/"><b>🌐 Découvrir mon portfolio</b></a>
+  <a href="https://brenda-solutions.netlify.app/"><b>🌐 Mon portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/brenda-ndjoumba-ikouele/"><b>💼 LinkedIn</b></a>
 </p>
 
 ---
@@ -43,6 +46,7 @@
 ### 📫 Me contacter
 
 - 🌐 **Portfolio :** [brenda-solutions.netlify.app](https://brenda-solutions.netlify.app/)
+- 💼 **LinkedIn :** [Brenda NDJOUMBA-IKOUELE](https://www.linkedin.com/in/brenda-ndjoumba-ikouele/)
 - 💬 Disponible pour vos projets web & data — **premier échange gratuit, sans engagement**
 
 ---
